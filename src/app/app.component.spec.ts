@@ -14,6 +14,7 @@ describe('AppComponent', function () {
       declarations: [ AppComponent ]
     })
     .compileComponents();
+    ;
   }));
 
   beforeEach(() => {
